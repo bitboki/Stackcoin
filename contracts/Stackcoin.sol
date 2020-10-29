@@ -6,6 +6,7 @@ contract Stackcoin is ERC721Full {
 
 
   constructor() ERC721Full("Stackcoin", "STK") public {
+    
   }
 
 
