@@ -1,0 +1,24 @@
+{
+  "name": "stackcoin",
+  "version": "1.0.0",
+  "description": "",
+  "author": "bojangrbic1@gmail.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "^3.2.0",
+    "react": "^17.0.1",
+    "truffle": "^5.0.5",
+    "truffle-flattener": "^1.5.0"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  }
+}
